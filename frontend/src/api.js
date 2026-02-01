@@ -1,7 +1,8 @@
 import axios from 'axios';
 
 // 1. Point to your local backend
-const API = axios.create({ baseURL: 'https://social-app-4ah3.onrender.com' });
+
+const API = axios.create({ baseURL: 'https://social-app-4ah3.onrender.com/api' });
 
 // 2. Helper to add the token to requests (if logged in)
 API.interceptors.request.use((req) => {
