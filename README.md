@@ -46,8 +46,8 @@ If you want to run this project on your local machine, follow these steps:
 
 ### 1. Clone the Repository
 
-git clone https://github.com/guruduttnbharadwaj/social-app.git  
-cd social-app  
+git clone [https://github.com/guruduttnbharadwaj/social-app.git](https://github.com/guruduttnbharadwaj/social-app.git)
+cd social-app
 
 ### 2. Backend Setup
 
